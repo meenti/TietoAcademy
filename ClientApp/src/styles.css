@@ -1,3 +1,39 @@
 /* You can add global styles to this file, and also import other style files */
 
+.tieto {
+  background-color: #61b4e5;
+  color:white;
+}
+.counter {
+  background-color: #000000;
+}
+.right-sidebar.separate-containers .site-main {
+  margin: 30px 30px 30px 0;
+}
+
+.separate-containers .inside-left-sidebar, .separate-containers .inside-right-sidebar {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.separate-containers .widget {
+  margin-bottom: 30px;
+}
+
+.separate-containers .inside-article, .footer-widgets, .widget-area .widget {
+  padding: 20px;
+}
+p
+{
+  padding:0;
+  margin:0;
+}
+#but {
+  padding-top: 10px;
+  margin-top: 10px;
+}
+a {
+  padding: 0px;
+  margin: 0px;
+}
 

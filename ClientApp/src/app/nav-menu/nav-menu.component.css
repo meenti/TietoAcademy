@@ -19,14 +19,10 @@ html {
   background-color: #61b4e5;
 }
 
-.tieto {
-  background-color: #61b4e5;
-}
-
 
 li.link-active[_ngcontent-c1] a[_ngcontent-c1], li.link-active[_ngcontent-c1] a[_ngcontent-c1]:focus, li.link-active[_ngcontent-c1] a[_ngcontent-c1]:hover {
   color: red;
-  background-color: #b3d9f1;
+  background-color: #77c1ed;
   border-radius: 3px;
-
 }
+

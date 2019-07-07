@@ -4,6 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-counter-component',
   templateUrl: './counter.component.html'
 })
+
 export class CounterComponent {
   public currentCount = 0;
   public fibonacciNumber = 1;
@@ -13,8 +14,7 @@ export class CounterComponent {
 
 
   public incrementCounter() {
-    //this.currentCount = this.currentCount +5;
-   
+    
     for ( this.i = 0; this.i < this.click ; this.i++)
     {
       this.currentCount = this.fibonacciNumber;
